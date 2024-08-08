@@ -1,4 +1,4 @@
-#StayVerified
+StayVerified
 
 Developed a Comprehensive Property Rental Web Application
 
