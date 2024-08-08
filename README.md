@@ -1,4 +1,5 @@
 #StayVerified
+
 Developed a Comprehensive Property Rental Web Application
 
 Tools & Technologies: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
